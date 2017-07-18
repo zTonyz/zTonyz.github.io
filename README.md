@@ -3,7 +3,7 @@
 **WELCOME YOU TO COME HERE!!!**   
 **`HAHAHAH`**   
 ### LET'S FIND OUT SOMETHING INTERESTING!   
+![img](https://github.com/zTonyz/zTonyz.github.io/blob/master/1.jpg?raw=true)   
+# wow!!!   
 ### TO BE CONTINUED......
-![img](http://img3.duitang.com/uploads/item/201605/12/20160512071754_WUj5n.jpeg?raw=true)   
-# wow!!!
 

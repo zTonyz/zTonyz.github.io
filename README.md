@@ -1,13 +1,5 @@
-![img](https://github.com/zTonyz/zTonyz.github.io/blob/master/2.jpg?raw=true)   
-# HELLO!!! 臭臭臭莎莎!!!         
-**WELCOME YOU TO COME HERE!!!**   
-## 哈哈哈哈哈哈   
-### 略略略   
-### LET'S FIND OUT SOMETHING INTERESTING!  
-# wow!!!   
-### TO BE CONTINUED......
-
-...menustart
+# Here is some guides for using Octave
+` reprinted from mebusy `
 
  - [Octave Tutorial](#7b7506511ca80c5b54b8e2f1784aab67)
 	 - [一般命令](#45cd59165ed98b8a43499f3529f43da5)

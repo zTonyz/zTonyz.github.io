@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
 </head>
 <body>
-  <div class="container">
+  <div class="container" align="center">
     <div class="heading">
       <h1 class="title">真的是鹦鹉吗</h1>
       <div class="scores-container">

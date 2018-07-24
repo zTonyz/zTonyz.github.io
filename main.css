@@ -429,21 +429,21 @@ hr {
     background-position: center center;
     color: transparent; }
   .tile.tile-2048 .tile-inner {
-    background-image: url("ha3.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-origin: content-box;
-    background-position: center center;
-    color: transparent; }
-  .tile.tile-4096 .tile-inner {
     background-image: url("lll.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
-  .tile.tile-8192 .tile-inner {
+  .tile.tile-4096 .tile-inner {
     background-image: url("me.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    background-position: center center;
+    color: transparent; }
+  .tile.tile-8192 .tile-inner {
+    background-image: url("da.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
@@ -464,7 +464,7 @@ hr {
     background-position: center center;
     color: transparent; }
   .tile.tile-65536 .tile-inner {
-    background-image: url("da.gif");
+    background-image: url("ha3.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;

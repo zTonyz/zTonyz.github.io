@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0040)http://tiansh.github.io/2048/zhong/seal/ -->
 <html lang="zh-cn"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   

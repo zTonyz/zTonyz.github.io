@@ -429,56 +429,56 @@ hr {
     background-position: center center;
     color: transparent; }
   .tile.tile-2048 .tile-inner {
-    background-image: url("bo2.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-origin: content-box;
-    background-position: center center;
-    color: transparent; }
-  .tile.tile-4096 .tile-inner {
-    background-image: url("bo3.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-origin: content-box;
-    background-position: center center;
-    color: transparent; }
-  .tile.tile-8192 .tile-inner {
-    background-image: url("yin.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-origin: content-box;
-    background-position: center center;
-    color: transparent; }
-  .tile.tile-16384 .tile-inner {
-    background-image: url("da.gif");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-origin: content-box;
-    background-position: center center;
-    color: transparent; }
-  .tile.tile-32768 .tile-inner {
-    background-image: url("me.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-origin: content-box;
-    background-position: center center;
-    color: transparent; }
-  .tile.tile-65536 .tile-inner {
     background-image: url("ha3.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
-  .tile.tile-131072 .tile-inner {
+  .tile.tile-4096 .tile-inner {
+    background-image: url("lll.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    background-position: center center;
+    color: transparent; }
+  .tile.tile-8192 .tile-inner {
+    background-image: url("me.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    background-position: center center;
+    color: transparent; }
+  .tile.tile-16384 .tile-inner {
     background-image: url("ha.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
+  .tile.tile-32768 .tile-inner {
+    background-image: url("ha2.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    background-position: center center;
+    color: transparent; }
+  .tile.tile-65536 .tile-inner {
+    background-image: url("da.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    background-position: center center;
+    color: transparent; }
+  .tile.tile-131072 .tile-inner {
+    background-image: url("kk.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    background-position: center center;
+    color: transparent; }
   .tile.tile-262144 .tile-inner {
-    background-image: url("h2.gif");
+    background-image: url("nv.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;

@@ -21,7 +21,11 @@
         <div class="best-container">二〇</div>
       </div>
     </div>
-    <p class="game-intro">向着未知的前方前进！！！</p>
+    <p class="game-intro" align="left">
+    <strong>7.25更新</strong><br>
+    1.新的鹦鹉！<br>
+    2.难度降低😏
+    </p>
 
     <div class="game-container">
       <div class="game-message">

@@ -1,7 +1,7 @@
 ﻿var I18N = {
   'numberToString': function (num) {
   return ('' + num).split('')
-    .map(function (c) { return '〇一二三四五六七八九'[c]; }).join('');
+    .map(function (c) { return '0123456789'[c]; }).join('');
   },
   'tileText': function (value) {
     var text = " 甲乙丙丁戊己庚辛壬癸终天地人和一二三";

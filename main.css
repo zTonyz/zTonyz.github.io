@@ -359,63 +359,63 @@ hr {
     background-color: #edc22e;
     box-shadow: 0 0 30px 10px rgba(243, 213, 116, 0.555556), inset 0 0 0 1px rgba(255, 255, 255, 0.333333); }
   .tile.tile-2 .tile-inner {
-    background-image: url("b2.jpg");
+    background-image: url("ff.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
   .tile.tile-4 .tile-inner {
-    background-image: url("b7.gif");
+    background-image: url("gg.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
   .tile.tile-8 .tile-inner {
-    background-image: url("b1.gif");
+    background-image: url("ee.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
   .tile.tile-16 .tile-inner {
-    background-image: url("b3.gif");
+    background-image: url("hh.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
   .tile.tile-32 .tile-inner {
-    background-image: url("b6.jpg");
+    background-image: url("ii.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
   .tile.tile-64 .tile-inner {
-    background-image: url("b8.jpg");
+    background-image: url("cc.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
   .tile.tile-128 .tile-inner {
-    background-image: url("b5.jpg");
+    background-image: url("dd.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
   .tile.tile-256 .tile-inner {
-    background-image: url("b4.gif");
+    background-image: url("jj.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;
     background-position: center center;
     color: transparent; }
   .tile.tile-512 .tile-inner {
-    background-image: url("bo3.jpg");
+    background-image: url("bb.gif");
     background-repeat: no-repeat;
     background-size: contain;
     background-origin: content-box;

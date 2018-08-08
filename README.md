@@ -15,16 +15,16 @@
 <body>
   <div class="container" align="center">
     <div class="heading">
-      <h1 class="title">博</h1>
+      <h1 class="title">\(^o^)/</h1>
       <div class="scores-container">
         <div class="score-container">〇</div>
         <div class="best-container">二〇</div>
       </div>
     </div>
     <p class="game-intro" align="left">
-    <strong>7.26更新2</strong><br>
+    <strong>8.9更新</strong><br>
     1.新的主题！<br>
-    2.新的😏
+    2.😏
     </p>
 
     <div class="game-container">
